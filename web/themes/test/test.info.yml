@@ -1,0 +1,12 @@
+# THEMENAME.info.yml file for test example theme.
+name: Test
+type: theme
+base theme: classy
+description: 'Test.'
+package: Custom
+core: 8.x
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
